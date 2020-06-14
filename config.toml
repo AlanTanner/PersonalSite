@@ -1,8 +1,7 @@
 baseURL = "https://thankful-bush-037ae690f.azurestaticapps.net"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Alan Tanner"
 theme = "hermit"
-
 
 # enableGitInfo = true
 pygmentsCodefences  = true
