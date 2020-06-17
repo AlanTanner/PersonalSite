@@ -73,7 +73,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "gpg"
-    url = "public-key.txt/"
+    url = "https://www.alanctanner.com/public-key.txt/" ##this is hard coded URL since it will not work if opened from nav bar in other folders
 
 [menu]
 
