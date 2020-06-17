@@ -68,6 +68,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://twitter.com/alanctanner"
 
   [[params.social]]
+    name = "keybase"
+    url = "https://keybase.io/alanctanner"
+
+  [[params.social]]
     name = "email"
     url = "mailto:alan@alanctanner.com"
 
