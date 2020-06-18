@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alanctanner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alanctanner.com
+  * I am alanctanner (https://keybase.io/alanctanner) on keybase.
+  * I have a public key ASBf7o4FCMKVt-XERa5fryScZRhiPfpgc9LDch5f5RwDMAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205fee8e0508c295b7e5c445ae5faf249c6518623dfa6073d2c3721e5fe51c03300a",
+      "host": "keybase.io",
+      "kid": "01205fee8e0508c295b7e5c445ae5faf249c6518623dfa6073d2c3721e5fe51c03300a",
+      "uid": "bc0f39feeaa51b4bb4d91a78bb9b7619",
+      "username": "alanctanner"
+    },
+    "merkle_root": {
+      "ctime": 1592441903,
+      "hash": "d7083ce73a15124f0809ee73bdf8d03ab37e316ae7dc35a7318a76b9059e178a85b06507a0fd531399a5ef10070649def9eced7639d08f7977dcc5ea05df9248",
+      "hash_meta": "3b24e36931d0770b14633c194dcb8661cc1b05f903eaf3c1147d17a819ed2bbc",
+      "seqno": 16700836
+    },
+    "service": {
+      "entropy": "qreuuEzC+Q1gFjcly9Ay4yCx",
+      "hostname": "alanctanner.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1592441926,
+  "expire_in": 504576000,
+  "prev": "1426a8fe5a2139c2c55d50bcda15b9ab35ca164c1ac89ee07f6506b4deeeb1ee",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX+6OBQjClbflxEWuX68knGUYYj36YHPSw3IeX+UcAzAKp3BheWxvYWTESpcCFcQgFCao/lohOcLFXVC82hW5qzXKFkwayJ7gf2UGtN7use7EIJ1BVSkjzTh/P6Ie6jGzaLY4snpGv9/BX/407/gT024AAgHCo3NpZ8RAJ0CyIEXg9X6c+3CT4N11mt5qSo7qD1lMJyR+evo/ty1ItY+jjx/+GznaRshIrbWw3LVcf750sc7GHbCD6Yu0CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJPBzyx3tUPbULt/sg3VqSo8gDuhjTJ6u/DkVq+LnQDdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alanctanner
+
+==================================================================
