@@ -67,17 +67,17 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "twitter"
     url = "https://twitter.com/alanctanner"
 
-  [[params.social]]
-    name = "keybase"
-    url = "https://keybase.io/alanctanner"
+  #[[params.social]]
+    #name = "keybase"
+    #url = "https://keybase.io/alanctanner"
 
   [[params.social]]
     name = "email"
     url = "mailto:alan@alanctanner.com"
 
-  [[params.social]]
-    name = "gpg"
-    url = "https://www.alanctanner.com/public-key.txt/" ##this is hard coded URL since it will not work if opened from nav bar in other folders
+  #[[params.social]]
+   #name = "gpg"
+   #url = "https://www.alanctanner.com/public-key.txt/" ##this is hard coded URL since it will not work if opened from nav bar in other folders
 
 [menu]
 
