@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  #homeSubtitle = "This site is a work in progress."
+  homeSubtitle = "Updates Coming Soon."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
