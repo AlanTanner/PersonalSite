@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Alan Tanner"
+logo = "logo.png" 
+
+[author]
+name = "Alan Tanner"
+image = "img/caiPic_grey.png"
+headline = "More Updates Coming Soon!!"
+bio = "Software Engineer"
+links = [
+  { linkedin = "https://linkedin.com/in/alanctanner" },
+  { github = "https://github.com/alantanner" },
+ # { youtube = "https://www.youtube.com/@alanctanner" },
+  { dev = "https://dev.to/alanctanner" },
+  { twitter = "https://twitter.com/alanctanner" },
+  { email = "mailto:alan@alanctanner.com" }
+]
+dateFormat = "2 January 2006"
