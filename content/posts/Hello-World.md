@@ -7,7 +7,7 @@ images:
 tags: 
   - untagged
 ---
-{{< tweet 506256312851001344 >}}
+{{< tweet user="AlanCTanner" id="506256312851001344" >}}
 
 It only took 2116 days since I posted that on twitter, but I finally created a personal website! I am not 100% what my rationale for wanting a personal website was back then... But this will be a tech blog, to document what I am interested in and working on. 
 

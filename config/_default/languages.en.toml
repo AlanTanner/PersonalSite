@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Alan Tanner"
+
+[author]
+name = "Alan Tanner"
+#image = "img/author.jpg"
+headline = "More Updates Coming Soon!!"
+bio = "write the bio here"
+links = [
+  { linkedin = "https://linkedin.com/in/alanctanner" },
+  { github = "https://github.com/alantanner" },
+ # { youtube = "https://www.youtube.com/@alanctanner" },
+  { dev = "https://dev.to/alanctanner" },
+  { twitter = "https://twitter.com/alanctanner" },
+  { email = "mailto:alan@alanctanner.com" }
+]
+dateFormat = "2 January 2006"
