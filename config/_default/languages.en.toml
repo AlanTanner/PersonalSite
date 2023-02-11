@@ -6,12 +6,13 @@ weight = 1
 rtl = false
 
 title = "Alan Tanner"
+logo = "logo.png" 
 
 [author]
 name = "Alan Tanner"
-image = "img/logo.png"
+image = "img/caiPic_grey.png"
 headline = "More Updates Coming Soon!!"
-bio = "write the bio here"
+bio = "Software Engineer"
 links = [
   { linkedin = "https://linkedin.com/in/alanctanner" },
   { github = "https://github.com/alantanner" },

@@ -113,13 +113,13 @@ defaultBackgroundImage = "img/BlueBackground.png" # used as default for backgrou
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBc_cALt5rH7Myuh9Q4t3t9jNwBwtrRdqY"
+  authDomain = "personalsite-85a4e.firebaseapp.com"
+  projectId = "personalsite-85a4e"
+  storageBucket = "personalsite-85a4e.appspot.com"
+  messagingSenderId = "705669480030"
+  appId = "1:705669480030:web:d7adb95603bcdfb56dbec"
+  measurementId = "G-ZK3JY5P41D"
 
 [fathomAnalytics]
   # site = "ABC12345"

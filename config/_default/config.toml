@@ -6,7 +6,7 @@ baseURL = "https://www.alanctanner.com/"
 languageCode = "en-us"
 title = "Alan Tanner"
 theme = "blowfish"
-logo = "scr/logo.png"
+logo = "img/logo.webp"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
