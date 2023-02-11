@@ -1,7 +1,7 @@
 baseURL = "https://www.alanctanner.com/"
 languageCode = "en-us"
 title = "Alan Tanner"
-theme = "hermit"
+theme = "blowfish"
 
 # enableGitInfo = true
 pygmentsCodefences  = true
