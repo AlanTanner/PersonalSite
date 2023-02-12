@@ -13,17 +13,22 @@
 [[main]]
   name = "About"
   pageRef = "about-me.md"
-  weight = 10
+  weight = 5
 
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 20
+  weight = 10
+
+[[main]]
+  name = "Résumé"
+  pageRef = "resume.md"
+  weight = 15
 
 [[main]]
   pre = "linkedin"
   url = "https://linkedin.com/in/alanctanner"
-  weight = 30
+  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
