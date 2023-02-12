@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/AlanTanner/PersonalSite/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)](https://github.com/AlanTanner/PersonalSite/actions)
 
 # PersonalSite
-This is the repo for my hugo blog at [alanctanner.com](https://www.alanctanner.com). It is currently using my [fork](https://github.com/AlanTanner/hermit) of the [Hermit](https://github.com/Track3/hermit) theme created by [Track3](https://github.com/Track3).
+This is the repo for my hugo blog or at [alanctanner.com](https://www.alanctanner.com). It is currently using the [Blowfish](https://github.com/nunocoracao/blowfish) theme created by [Nuno Coração](https://github.com/nunocoracao).
 
 It uses a [Github Action](https://github.com/peaceiris/actions-hugo) for building and deploying automatically to Azure Static Pages.
 
