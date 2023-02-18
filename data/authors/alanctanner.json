@@ -1,0 +1,12 @@
+{
+    "name": "Alan Tanner",
+    "image" : "img/caiPic_grey.png",
+    "bio": "Software Engineer",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/alanctanner" },
+        { "github": "https://github.com/alantanner" },
+        { "dev": "https://dev.to/alanctanner" },
+        { "twitter": "https://twitter.com/alanctanner" },
+        { "email": "mailto:alan@alanctanner.com" }
+    ]
+}

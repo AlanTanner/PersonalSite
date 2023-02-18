@@ -4,8 +4,13 @@ date: 2020-06-16T20:06:21-04:00
 draft: false
 toc: false
 images:
-tags: 
-  - untagged
+slug: "multi-author"
+tags: ["First"]
+showAuthor: false
+authors:
+  - "alanctanner"
+showAuthorsBadges : false 
+
 ---
 {{< tweet user="AlanCTanner" id="506256312851001344" >}}
 

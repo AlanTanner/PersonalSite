@@ -2,11 +2,13 @@
 title: "The Benefits of Creating a Personal Blog as a Software Developer"
 date: 2023-02-12T20:58:46-05:00
 draft: false
-layouts: simple
+toc: false
 images:
-showauthor: false
-tags: 
-  - untagged
+categories: ["AI"]
+tags: ["Writting", "Jasper"]
+showAuthor: false
+authors:
+  - "alanctanner"
 ---
 
  As a software developer, having a personal blog is an excellent way to not only showcase your work and skills but also to stay on top of industry trends. I’ve been blogging for years now and it has opened up many opportunities that would have otherwise been unavailable. Here’s why you should consider creating a personal blog as a software developer.
