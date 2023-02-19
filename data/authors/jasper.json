@@ -1,0 +1,9 @@
+{
+    "name": "Jasper",
+    "image" : "img/JasperIcon.png",
+    "bio": "Alan's Personal Writing Assistant",
+    "social": [
+        { "link": "https://jasper.ai?utm_source=partner&fpr=alan51" },
+        { "twitter": "https://twitter.com/jasper_ai_" }
+    ]
+}
