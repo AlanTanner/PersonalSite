@@ -11,7 +11,7 @@ logo = "logo.webp"
 [author]
 name = "Alan Tanner"
 image = "img/caiPic_grey.png"
-headline = "More Updates Coming Soon!!"
+headline = "Software Engineer | using Xamarin, .NET, MSSQL"
 bio = "Software Engineer"
 links = [
   { linkedin = "https://linkedin.com/in/alanctanner" },

@@ -1,6 +1,7 @@
 ---
 title: "The Last Post Was A Lie :cake:"
 date: 2023-02-18T21:58:46-05:00
+summary: "I confess to using Jasper, an AI content creation platform, for my last blog post, which allowed me to generate text faster and create ideas, but still required careful proofreading and fact-checking."
 draft: false
 toc: false
 categories: ["AI"]

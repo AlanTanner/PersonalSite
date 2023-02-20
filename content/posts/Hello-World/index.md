@@ -1,6 +1,7 @@
 ---
 title: "Hello World"
 date: 2020-06-16T20:06:21-04:00
+summary: "My First Blog Post!"
 draft: false
 toc: false
 images:
