@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 categories: ["AI"]
-tags: ["Writting", "Generated", "Jasper", "Tools", "GPT-3", "Machine Learning"]
+tags: ["Writing", "Generated", "Jasper", "Tools", "GPT-3", "Machine Learning"]
 showAuthor: false
 authors:
   - "alanctanner"
