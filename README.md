@@ -6,7 +6,5 @@ This is the repo for my hugo blog or at [alanctanner.com](https://www.alanctanne
 
 It is currently using the [Blowfish](https://github.com/nunocoracao/blowfish) theme created by [Nuno Coração](https://github.com/nunocoracao).
 
-It uses a [Github Action](https://github.com/peaceiris/actions-hugo) by [Shohei Ueda](https://github.com/peaceiris) for building and deploying automatically to Azure Static Pages.
-
 # How To
 I used this [Microsoft Doc](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-hugo) to get everything up and running.
