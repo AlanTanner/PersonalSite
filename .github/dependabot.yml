@@ -9,8 +9,11 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-      updates:
+    labels:
+      - "dependencies"
   - package-ecosystem: "gitsubmodule"
     directory: "/"
     schedule:
       interval: "weekly"
+    labels:
+      - "dependencies"
