@@ -41,4 +41,8 @@ The fun thing is Jasper, and all other ML algos, are confidently incorrect. Ask 
 ## Bye For Now
 So my first month playing with Jasper has been really fun. I have had a lot of emotions using it, from amazement, when Jasper writes something that sounds completely human, to cracking up laughing at how ridiculously wrong it can be. I am not sure if I would be bothered to restart this blog without the assistance of Jasper. I also have only scratched the surface of the capabilities Jasper has to offer, so I hope I can find more tools in Jasper to become a better and faster writer. I will be sure to give a few updates on what I end up useing Jasper for in the future. Stay Tuned!
 
+
+{{< audio src="/audio/LastPostWasALieNarration.mp3" caption="<small>Narration is AI generated with [llElevenLabs](https://beta.elevenlabs.io/)</small>" >}}
+
+
 If you want to try Jasper for yourself click [here](https://jasper.ai?utm_source=partner&fpr=alan51) to use my affiliate code to receive 10,000 free words.

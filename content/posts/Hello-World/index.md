@@ -20,5 +20,4 @@ I do not know how often I will post, but there is much to learn, and I want to r
 
 My next post will be about the technology I used to create this blog. Stay tuned! 
 
-
-
+{{< audio src="/audio/HelloWorldNarration.mp3" caption="<small>Narration is AI generated with [llElevenLabs](https://beta.elevenlabs.io/)</small>" >}}
