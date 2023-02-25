@@ -32,3 +32,5 @@ if you want to partner up with other developers on projects or get feedback from
 
 ## Conclusion
 Creating a personal blog as a software developer can open up all sorts of doors that would otherwise be unavailable without one. Not only does it provide an online platform where people can see your work first hand, but it also allows you stay current with industry trends while networking with other professionals in the field–all at the same time! That’s why I decided to create my own personal blog; it has opened up so many opportunities that I wouldn't have had access too otherwise. If you're looking for ways to further develop your career in software development, I highly recommend considering creating your own personal blog!
+
+{{< audio src="/audio/BenifitsOfBlogNarration.mp3" caption="<small>Narration is AI generated with [llElevenLabs](https://beta.elevenlabs.io/)</small>" >}}
