@@ -10,7 +10,7 @@ logo = "logo.webp"
 
 [author]
 name = "Alan Tanner"
-image = "img/caiPic_grey.png"
+image = "img/profilepic.png"
 headline = "Software Engineer | using Xamarin, .NET, MSSQL"
 bio = "Software Engineer"
 links = [
