@@ -18,7 +18,7 @@ links = [
   { github = "https://github.com/alantanner" },
  # { youtube = "https://www.youtube.com/@alanctanner" },
   { dev = "https://dev.to/alanctanner" },
-  { twitter = "https://twitter.com/alanctanner" },
+  { instagram = "https://www.instagram.com/alanctanner" },
   { email = "mailto:alan@alanctanner.com" }
 ]
 dateFormat = "2 January 2006"
