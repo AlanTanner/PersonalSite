@@ -5,7 +5,6 @@
 baseURL = "https://www.alanctanner.com/"
 languageCode = "en-us"
 title = "Alan Tanner"
-theme = "blowfish"
 logo = "img/logo.webp"
 defaultContentLanguage = "en"
 
