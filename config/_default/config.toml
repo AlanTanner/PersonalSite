@@ -5,6 +5,7 @@
 baseURL = "https://www.alanctanner.com/"
 languageCode = "en-us"
 title = "Alan Tanner"
+theme = "blowfish"
 logo = "img/logo.webp"
 defaultContentLanguage = "en"
 
@@ -18,6 +19,8 @@ buildDrafts = false
 buildFuture = false
 
 googleAnalytics = "G-ZK3JY5P41D"
+
+ignoreErrors = ["error-remote-getjson"]
 
 [imaging]
   anchor = 'Center'

@@ -1,2 +1,8 @@
-github.com/nunocoracao/blowfish/v2 v2.88.0 h1:qoXBgB8P5wgd8gRl+mq77pRgbMEjDBKCtA9PK/5sGCo=
-github.com/nunocoracao/blowfish/v2 v2.88.0/go.mod h1:4SkMc+Ht8gpQCwArqiHMBDP3soxi2OWuAhVney+cuyk=
+github.com/nunocoracao/blowfish/v2 v2.27.0 h1:j8RnG/PYfnUJ/UL1SDzDcsbIgtv7s2VkyPIVHaxWQuU=
+github.com/nunocoracao/blowfish/v2 v2.27.0/go.mod h1:4SkMc+Ht8gpQCwArqiHMBDP3soxi2OWuAhVney+cuyk=
+github.com/nunocoracao/blowfish/v2 v2.27.2 h1:8xro0LkcKMzIz8zjah9iQKFChHrLQmDhXZFGOiT6LD4=
+github.com/nunocoracao/blowfish/v2 v2.27.2/go.mod h1:4SkMc+Ht8gpQCwArqiHMBDP3soxi2OWuAhVney+cuyk=
+github.com/nunocoracao/blowfish/v2 v2.28.0 h1:zCSIyD9BzJHV4sRlGClw7PIiEAUynwk77U587VaLe4Q=
+github.com/nunocoracao/blowfish/v2 v2.28.0/go.mod h1:4SkMc+Ht8gpQCwArqiHMBDP3soxi2OWuAhVney+cuyk=
+github.com/nunocoracao/blowfish/v2 v2.29.0 h1:I502Gesht+NaLtN/SdZOW1nDVrgEFi6OdTEC1aBBDxo=
+github.com/nunocoracao/blowfish/v2 v2.29.0/go.mod h1:4SkMc+Ht8gpQCwArqiHMBDP3soxi2OWuAhVney+cuyk=
