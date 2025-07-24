@@ -18,6 +18,4 @@ It only took 2116 days since I posted that on twitter, but I finally created a p
 
 I do not know how often I will post, but there is much to learn, and I want to record my experiences! 
 
-My next post will be about the technology I used to create this blog. Stay tuned! 
-
-{{< audio src="/audio/HelloWorldNarration.mp3" caption="<small>Narration is AI generated with [llElevenLabs](https://beta.elevenlabs.io/)</small>" >}}
+My next post will be about the technology I used to create this blog. Stay tuned!

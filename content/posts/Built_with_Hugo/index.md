@@ -46,5 +46,3 @@ Lastly, you'll likely want to register a domain name for your Azure site. Now th
  
 ## Wrap Up
 Overall, setting up my website with Hugo and Azure was a great experience despite all the complexities back when Azure Static Pages were in Preview in 2020. Through this experience, I gained invaluable insight into the capabilities of both Github and Azure. These comprehensive platforms offer a wealth of features to help streamline processes and increase productivity. Finally, I'd encourage everyone to give creating their website too. Crafting and imagining innovative concepts for my website has been an immensely enjoyable experience for me, and it can be for you too. Stay Tuned!
-
-{{< audio src="/audio/BuildWithHugoNarration.mp3" caption="<small>Narration is AI generated with [llElevenLabs](https://beta.elevenlabs.io/)</small>" >}}

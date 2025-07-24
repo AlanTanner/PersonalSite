@@ -18,7 +18,11 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
+timeout = "120s"
+
 googleAnalytics = "G-ZK3JY5P41D"
+
+ignoreErrors = ["error-remote-getjson"]
 
 [imaging]
   anchor = 'Center'
