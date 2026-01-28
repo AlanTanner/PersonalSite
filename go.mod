@@ -1,5 +1,5 @@
 module github.com/alantanner/PersonalSite
 
-go 1.19
+go 1.22
 
-require github.com/nunocoracao/blowfish/v2 v2.29.0 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.97.0 // indirect
