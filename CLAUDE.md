@@ -14,7 +14,7 @@ This is **Alan Tanner's personal portfolio website** built with Hugo static site
 
 | Component | Technology | Version/Details |
 |-----------|------------|-----------------|
-| Static Site Generator | Hugo | v0.154.5 |
+| Static Site Generator | Hugo | v0.110.0 |
 | Theme | Blowfish v2 | v2.97.0 - Git submodule in `themes/blowfish/` |
 | Language | Go | 1.19 (for Hugo modules) |
 | Hosting | Azure Static Web Apps | Serverless |
@@ -93,7 +93,7 @@ hugo
 ### Deployment
 Deployment is **automatic** via GitHub Actions:
 1. Push changes to `master` branch
-2. GitHub Action builds with Hugo 0.154.5
+2. GitHub Action builds with Hugo 0.110.0
 3. Deploys to Azure Static Web Apps
 
 The workflow file: `.github/workflows/azure-static-web-apps-thankful-bush-037ae690f.yml`
@@ -220,7 +220,7 @@ git submodule update --init --recursive
 ```
 
 ### Build Errors
-- Check Hugo version matches workflow (v0.154.5)
+- Check Hugo version matches workflow (v0.110.0)
 - Verify frontmatter TOML syntax
 - Check for broken shortcode references
 
