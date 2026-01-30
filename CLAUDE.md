@@ -16,7 +16,7 @@ This is **Alan Tanner's personal portfolio website** built with Hugo static site
 |-----------|------------|-----------------|
 | Static Site Generator | Hugo | v0.154.5 |
 | Theme | Blowfish v2 | v2.97.0 - Git submodule in `themes/blowfish/` |
-| Language | Go | 1.22 (for Hugo modules) |
+| Language | Go | 1.19 (for Hugo modules) |
 | Hosting | Azure Static Web Apps | Serverless |
 | Content Format | Markdown | With TOML frontmatter |
 | Analytics | Google Analytics, Firebase, Fathom | Configured in params.toml |
